@@ -1,7 +1,7 @@
 
 #import "CGGeometry+LOTAdditions.h"
 
-const CGSize CGSizeMax = {CGFLOAT_MAX, CGFLOAT_MAX};
+const CGSize LOT_CGSizeMax = {CGFLOAT_MAX, CGFLOAT_MAX};
 //
 // Core Graphics Geometry Additions
 //

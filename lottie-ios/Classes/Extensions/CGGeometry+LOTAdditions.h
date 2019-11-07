@@ -7,7 +7,7 @@
 // Core Graphics Geometry Additions
 //
 
-extern const CGSize CGSizeMax;
+extern const CGSize LOT_CGSizeMax;
 
 CGRect LOT_RectIntegral(CGRect rect);
 
